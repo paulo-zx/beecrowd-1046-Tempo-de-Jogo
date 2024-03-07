@@ -9,6 +9,7 @@ Saída
 Apresente a duração do jogo conforme exemplo abaixo.
 
 Exemplo de Entrada	Exemplo de Saída
+
 16 2
 
 O JOGO DUROU 10 HORA(S)
